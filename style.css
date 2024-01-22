@@ -56,23 +56,32 @@
         font-size: 24px;
        }
     
-       .about-section{
+       .content-container{
         padding: 160px 20px;
        }
 
        
-       .about-section h1{
+       .content h1{
        font-size: 64px;
        line-height:80px ;
        } 
 
-       .about-section h2{
+       .content h2{
         font-size: 18px;
         font-family: var(--default-font-family);
        }
 
+      .content h3{
+       font-size:24px;
+       font-family:var(--default-font-family);
+      }
 
-       .about-section-conent{
+          
+       .content p{
+        font-size:14px;
+       }
+
+       .conent{
        margin: 30px;
        }
        
@@ -126,6 +135,11 @@
             padding: 80px 20px;
         }
 
+        .content{
+        text-align:center;
+        padding:0;
+        }
+
        .project-description{
         padding: 0;
         text-align: center;
@@ -136,8 +150,6 @@
        padding: 70px;
        font-family:var(--default-font-family);
        }
-
-    
      
        footer{
         border-top: 1px solid #f9f7fe;
