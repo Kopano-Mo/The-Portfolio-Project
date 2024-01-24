@@ -32,7 +32,7 @@
     line-height: 1,5;
        }
    
-       h4{
+       h3{
         font-size:38px;  
        }
 
@@ -90,7 +90,12 @@
        .conent{
        margin: 30px;
        }
+
+      .kopano-pic{
+      max-width: 300px;
+      }
        
+
        .btn-branding {
         background: var(--branding-color);
         border-radius: 4px;
@@ -164,7 +169,7 @@
         font-size: 30px;
         }
 
-        h4{
+        h3{
         font-size:26px;
         }
            
